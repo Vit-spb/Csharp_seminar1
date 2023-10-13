@@ -1,0 +1,15 @@
+D:\Csharp\Практика\ДЗ к семинарам\семинар 1 ДЗ\Tasks\Tasks_001\bin\Debug\net6.0\Tasks_001.exe
+D:\Csharp\Практика\ДЗ к семинарам\семинар 1 ДЗ\Tasks\Tasks_001\bin\Debug\net6.0\Tasks_001.deps.json
+D:\Csharp\Практика\ДЗ к семинарам\семинар 1 ДЗ\Tasks\Tasks_001\bin\Debug\net6.0\Tasks_001.runtimeconfig.json
+D:\Csharp\Практика\ДЗ к семинарам\семинар 1 ДЗ\Tasks\Tasks_001\bin\Debug\net6.0\Tasks_001.dll
+D:\Csharp\Практика\ДЗ к семинарам\семинар 1 ДЗ\Tasks\Tasks_001\bin\Debug\net6.0\Tasks_001.pdb
+D:\Csharp\Практика\ДЗ к семинарам\семинар 1 ДЗ\Tasks\Tasks_001\obj\Debug\net6.0\Tasks_001.csproj.AssemblyReference.cache
+D:\Csharp\Практика\ДЗ к семинарам\семинар 1 ДЗ\Tasks\Tasks_001\obj\Debug\net6.0\Tasks_001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Практика\ДЗ к семинарам\семинар 1 ДЗ\Tasks\Tasks_001\obj\Debug\net6.0\Tasks_001.AssemblyInfoInputs.cache
+D:\Csharp\Практика\ДЗ к семинарам\семинар 1 ДЗ\Tasks\Tasks_001\obj\Debug\net6.0\Tasks_001.AssemblyInfo.cs
+D:\Csharp\Практика\ДЗ к семинарам\семинар 1 ДЗ\Tasks\Tasks_001\obj\Debug\net6.0\Tasks_001.csproj.CoreCompileInputs.cache
+D:\Csharp\Практика\ДЗ к семинарам\семинар 1 ДЗ\Tasks\Tasks_001\obj\Debug\net6.0\Tasks_001.dll
+D:\Csharp\Практика\ДЗ к семинарам\семинар 1 ДЗ\Tasks\Tasks_001\obj\Debug\net6.0\refint\Tasks_001.dll
+D:\Csharp\Практика\ДЗ к семинарам\семинар 1 ДЗ\Tasks\Tasks_001\obj\Debug\net6.0\Tasks_001.pdb
+D:\Csharp\Практика\ДЗ к семинарам\семинар 1 ДЗ\Tasks\Tasks_001\obj\Debug\net6.0\Tasks_001.genruntimeconfig.cache
+D:\Csharp\Практика\ДЗ к семинарам\семинар 1 ДЗ\Tasks\Tasks_001\obj\Debug\net6.0\ref\Tasks_001.dll
